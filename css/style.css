@@ -171,6 +171,19 @@ li a:focus {
     display: block;
 }
 
+.four .card {
+    display: block;
+    margin: 0 auto;
+}
+
+.four .card img {
+    width: 100px;
+    height: 100px;
+    margin: 30px auto;
+    display: block;
+    border-radius: 50%;
+}
+
 @media only screen and (max-width: 360px) {
     .one {
         clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
