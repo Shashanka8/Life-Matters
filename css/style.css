@@ -156,6 +156,7 @@ li a:focus {
     padding: 50px;
     color: white;
 }
+
 .two .left {
     padding: 100px 30px;
     border: 2px solid white;
@@ -171,5 +172,5 @@ li a:focus {
 }
 
 .three {
-    padding: 10px 170px;
+    padding: 20px 170px;
 }
